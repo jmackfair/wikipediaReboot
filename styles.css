@@ -16,7 +16,6 @@
     z-index: 2;
 }
 
-.vector-pen{
-    filter: invert(100%);
+.dragonIcon{
     height: 30px;
 }
