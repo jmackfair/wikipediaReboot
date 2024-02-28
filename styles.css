@@ -19,3 +19,8 @@
 .dragonIcon{
     height: 30px;
 }
+
+.biography-image{
+    height: 150px;
+    border-radius: 5px;
+}
