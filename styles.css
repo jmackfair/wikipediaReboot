@@ -24,3 +24,22 @@
     height: 150px;
     border-radius: 5px;
 }
+
+.cosmere-thumbnail{
+    height: 275px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.cosmere-title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cosmere-description{
+
+}
+
+.cosmere-thumbnail:hover{
+    height: 325px;
+}
